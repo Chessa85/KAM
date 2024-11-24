@@ -3276,9 +3276,7 @@
             <Spanish>Permitir acumulación</Spanish>
             <Dutch>Sta stapelen toe</Dutch>
             <French>Autoriser l'empilage</French>
-            <Italian>Permetti l'impilamento
-
-</Italian>
+            <Italian>Permetti l'impilamento</Italian>
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_allowStackScript_TXA_DESC">
             <English>If enabled TXA will be stackable and double it's efficiency</English>
@@ -3399,8 +3397,7 @@
             <Spanish>Tiempo de coagulación de Heridas Leves</Spanish>
             <Dutch>Kleine wonden stollingstijd</Dutch>
             <French>Temps de coagulation des blessures mineures</French>
-            <Italian>
-Tempo di coagulazione per ferite minori</Italian>
+            <Italian>Tempo di coagulazione per ferite minori</Italian>
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_Coagulation_Time_Medium">
             <English>Medium Wounds Clotting Time</English>
@@ -3480,8 +3477,7 @@ Tempo di coagulazione per ferite minori</Italian>
             <Spanish>Afecta a Heridas Menores</Spanish>
             <Dutch>Beïnvloed kleine wonden</Dutch>
             <French>Affecter les blessures mineures</French>
-            <Italian>
-Influenza le ferite minori</Italian>
+            <Italian>Influenza le ferite minori</Italian>
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_Coagulation_allow_MinorWounds_DESC">
             <English>Allow coagulation to affect minor wounds when clotting</English>
@@ -3730,8 +3726,7 @@ Influenza le ferite minori</Italian>
             <Portuguese>Medidor de Coagulação</Portuguese>
             <Dutch>Coag-Sense</Dutch>
             <French>Coag-Sense</French>
-            <Italian>
-Coag-Sense</Italian>
+            <Italian>Coag-Sense</Italian>
         </Key>
         <Key ID="STR_KAT_Pharma_Coag_Sense_Display_DESC">
             <English>The Coag-Sense is a PT/INR monitoring system that can measure the efficiency of your blood clotting</English>
