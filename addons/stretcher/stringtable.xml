@@ -97,7 +97,7 @@
             <Dutch>Ontplooi brancard</Dutch>
             <Spanish>Desplegar Camilla</Spanish>
             <Japanese>担架を展開する</Japanese>
-            <Italian>Distribuire la barella</Italian>
+            <Italian>Dispiegare la barella</Italian>
         </Key>
         <Key ID="STR_KAT_Stretcher_RetractHeliStretcher">
             <English>Retract Stretcher</English>
@@ -209,7 +209,7 @@
             <Dutch>Ontplooi brancard</Dutch>
             <Spanish>Desplegar Camilla</Spanish>
             <Japanese>担架を展開する</Japanese>
-            <Italian>Distribuire la barella</Italian>
+            <Italian>Dispiegare la barella</Italian>
         </Key>
         <Key ID="STR_KAT_Stretcher_PlaceStretcher_progressBar">
             <English>Placing Stretcher...</English>
