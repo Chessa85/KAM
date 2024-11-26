@@ -1520,7 +1520,7 @@
             <Finnish>Kanna potilasta</Finnish>
             <Russian>Нести пациента</Russian>
             <Dutch>Draag patiënt</Dutch>
-            <Italian>Trasporta il Paziente</Italian>
+            <Italian>Trasporta il paziente</Italian>
         </Key>
         <Key ID="STR_KAT_Misc_CancelCarrying">
             <English>Cancel Carrying</English>
